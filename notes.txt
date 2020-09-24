@@ -1,0 +1,11 @@
+will need two mobile apps
+Teller's apps & User's App 
+
+Admin will login from the system portal
+
+Merchant will login from webservices portal
+
+
+v2
+merchant sign up will also be done via mobile app
+will dedicate a web portal for merchant sign up
